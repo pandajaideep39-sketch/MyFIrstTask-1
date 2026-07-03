@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World Task
 
 ## Description
@@ -14,3 +15,4 @@ This project contains a simple `index.html` file that displays **"Hello World!"*
 
 ## Task
 Create an `index.html` file, printing "Hello World!" on screen.
+=======
